@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    box-shadow: 0 20px 30px;
+    background-color: rgb(101, 119, 121);
+}
+
+
+p{
+    font-size: 2em;
+}
+
+
+#submit{
+    padding: 15px 39px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: white;
+    box-shadow: 0 1px 40px;
+    transition: 0.2s;
+    font-size: 2em;
+}
+
+#submit:hover{
+    box-shadow: 0 1px 60px;
+    opacity: 0.95;
+}
+#submit:active{
+    box-shadow: 0 1px 80px;
+    opacity: 0.85;
+}
+
+#userage{
+    padding: 5px 5px;
+    font-size: 2em;
+    border: none;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+
+#label1{
+    font-size: 2em;
+}
